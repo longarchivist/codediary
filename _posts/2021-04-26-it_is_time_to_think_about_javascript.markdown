@@ -8,12 +8,8 @@ So ... I have told myself that I would strive for JavaScript certification. This
 
 By 1357, I was 25% of the way through the freeCodeCamp starting tutorial. I suspect it might be a bit too easy for me.
 
-By 1427, I had finished the first module.
-Basic HTML and HTML5#
+By 1427, I had finished the first module of Basic HTML and HTML5.
 
-HTML is a markup language that uses a special syntax or notation to describe the structure of a webpage to the browser. HTML elements usually have opening and closing tags that surround and give meaning to content. For example, different elements can describe text as a heading, paragraph, or list item.
-
-In this course, you'll build a cat photo app to learn some of the most common HTML elements — the building blocks of any webpage.
 <br>
 Passed
 Say Hello to HTML Elements
@@ -98,6 +94,4 @@ Passed
 Declare the Doctype of an HTML Document
 <br>
 Passed
-
-    Define the Head and Body of an HTML Document
-    <br>
+Define the Head and Body of an HTML Document
