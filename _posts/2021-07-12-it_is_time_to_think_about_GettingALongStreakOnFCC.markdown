@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It is time to think about using GIT properly"
+title:  "Getting A Long Streak on FreeCodeCamp"
 date:   2021-07-12 00:00:33 +0800
 categories: jekyll update
 ---
